@@ -2349,7 +2349,7 @@ i::before,i::after{
 
 @media screen and (max-width: 450px) {
   .to-the-moon {
-    background: url(../images/moon-mobile.jpg) no-repeat #060E21;
+    background: url(../images/moon-mobile.jpg) 100% no-repeat #060E21;
   }
 }
 

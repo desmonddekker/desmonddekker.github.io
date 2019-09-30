@@ -2,8 +2,7 @@
 if($_POST)
 {
     // $to_Email       = "dekker.desmond@gmail.com";
-    $to_Email       = "liubov.kononenko@gmail.com";
-    $subject        = 'XeOne - New Contact Inquiry'; //Subject line for emails
+    $subject        = 'New Contact Inquiry'; //Subject line for emails
 
 
     //check if its an ajax request, exit if not
